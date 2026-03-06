@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - CommunitySquare</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #111;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+        h3 {
+            color: #222;
+            margin-top: 30px;
+        }
+        ul {
+            margin-top: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .date {
+            font-weight: bold;
+            color: #666;
+            margin-bottom: 30px;
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 0.9em;
+            color: #888;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Privacy Policy for CommunitySquare</h1>
+        <p class="date">Effective Date: March 6, 2026</p>
+
+        <h3>1. Introduction</h3>
+        <p>Welcome to CommunitySquare. This Privacy Policy explains how the CommunitySquare Team ("we," "us," or "our") collects, uses, shares, and protects your personal information when you use our mobile application and related services (the "Service"). By using CommunitySquare, you agree to the collection and use of information in accordance with this policy.</p>
+
+        <h3>2. Information We Collect</h3>
+        <p>We collect certain information to provide and improve our Service to you:</p>
+        <ul>
+            <li><strong>Personal Information:</strong> When you create an account, we may ask you to provide personal details such as your name and email address.</li>
+            <li><strong>Usage Data:</strong> We may collect data on how you access and use the app, such as device information, operating system, and diagnostic data to help us fix bugs and improve performance.</li>
+        </ul>
+
+        <h3>3. How We Use Your Information</h3>
+        <p>We use the collected data for various purposes, including:</p>
+        <ul>
+            <li>To create and manage your user account.</li>
+            <li>To provide, maintain, and improve CommunitySquare.</li>
+            <li>To send you necessary administrative emails, such as authentication links, password resets, and security alerts.</li>
+            <li>To respond to your customer support requests.</li>
+        </ul>
+
+        <h3>4. Third-Party Services</h3>
+        <p>We may employ third-party companies and individuals to facilitate our Service. These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+        <p>Specifically, we use the following services:</p>
+        <ul>
+            <li><strong>Firebase (Google):</strong> We use Firebase for backend infrastructure, which may include user authentication, database management, crash reporting, and analytics. Firebase may collect data such as your IP address, device identifiers, and usage metrics.</li>
+            <li><strong>Resend:</strong> We use Resend as our email service provider. When you sign up or request authentication emails, your email address is processed through Resend to ensure secure and reliable delivery.</li>
+        </ul>
+
+        <h3>5. Data Security</h3>
+        <p>We value your trust in providing us with your Personal Information and strive to use commercially acceptable means to protect it. However, no method of transmission over the internet or electronic storage is 100% secure.</p>
+
+        <h3>6. Children's Privacy</h3>
+        <p>CommunitySquare does not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and become aware that your child has provided us with personal data, please contact us.</p>
+
+        <h3>7. Changes to This Privacy Policy</h3>
+        <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top.</p>
+
+        <h3>8. Contact Us</h3>
+        <p>If you have any questions about this Privacy Policy, please contact us at:<br>
+        <strong>Email:</strong> hello@mail.side-quest.cloud</p>
+    </div>
+
+    <footer>
+        &copy; 2026 CommunitySquare Team
+    </footer>
+
+</body>
+</html>
